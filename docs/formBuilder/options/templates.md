@@ -6,7 +6,7 @@ For total control in creating not only custom controls but also custom output se
 ## Usage
 ```javascript
 let fields = [{
-  label: 'Star Rating',
+  label: 'me f',
   attrs: {
     type: 'starRating'
   },
